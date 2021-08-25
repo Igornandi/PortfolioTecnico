@@ -2,7 +2,7 @@
 ## códigos portifólio
 
 * [acesso ao Cassino] (Banco_de_dados/Cassino_ElChaplo/)
-* [acesso ao programação de aplicativos] (programacao_de_aplicativo_josefine)
+* [acesso ao programação de aplicativos] (programacao_de_aplicativo_josefine/)
 * [acesso ao programação de aplicativo 2 projeto] (programacao_de_aplicativos/)
 * [acesso a apresentação final da matéria da Maria] (Banco_de_dados/livraria_bd/)
 
